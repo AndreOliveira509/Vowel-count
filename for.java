@@ -1,7 +1,7 @@
 /*
 - Aluno: André Luis de Oliveira
 - Atividade: 3 - Vowel Count
-- Data: 13/05/2025
+- Data: 08/05/2025
 - Kata: Vowel-count
 
 */
